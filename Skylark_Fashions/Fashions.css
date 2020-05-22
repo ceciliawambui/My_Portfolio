@@ -1,0 +1,11 @@
+body{
+    background-color:#E040FB;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 250%;
+    color: black;
+    font-family: 'Lora', serif;
+}
+#sky{
+    font-weight: bold;
+}
